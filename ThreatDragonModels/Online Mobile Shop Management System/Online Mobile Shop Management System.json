@@ -1,0 +1,26 @@
+{
+  "version": "2.6.2",
+  "summary": {
+    "title": "Online Mobile Shop Management System",
+    "owner": "",
+    "description": "System Description\nThe Online Mobile Shop Management System allows customers to register, browse mobile products, add products to their cart, place orders, and track shipments. Administrators manage inventory, view sales reports, maintain customer records, and update shipment tracking information.\nExternal Entities\n•\tCustomer \n•\tAdmin \nProcesses\n•\tCustomer Registration \n•\tProduct & Order Management \n•\tOrder Tracking \nData Flows\n•\tCustomer Details \n•\tCustomer Information \n•\tAdd to Cart \n•\tCheckout \n•\tOrder Details \n•\tTracking Number \n•\tSales Reports \n•\tStock Information \n",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
